@@ -1,0 +1,32 @@
+Your table name:
+-	login [to save auth]
+-	gedung [to save ]
+Field :
+-	Login
+o	id
+o	username
+o	password
+o	status
+-	building
+o	id
+o	name
+o	location
+o	maps
+o	capacity
+o	price
+-	user
+o	name
+o	no_handphone
+o	email
+o	login_username
+-	admin
+o	name
+o	building_name
+o	no_handphone
+o	location
+-	booking_building
+o	id_building
+o	id
+o	status_booking
+o	price_building
+
